@@ -1,5 +1,5 @@
 # Import file from your system
-file_path = "c:/Users/ELAINE_DEV/Documents/Lesson-74-SQLLite-Python-activity-acp/basketball.sqlite"
+file_path = "c:/Users/ELAINE_DEV/Documents/Lesson-74-SQLLite-Python-activity-acp/database.sqlite"
 print("Selected file:", file_path)
 
 
